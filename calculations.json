@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Electricity",
+        "amount": 100.0,
+        "result": 0.06
+    },
+    {
+        "type": "Electricity",
+        "amount": 100.0,
+        "result": 0.06
+    },
+    {
+        "type": "Electricity",
+        "amount": 100.0,
+        "result": 0.06
+    },
+    {
+        "type": "Electricity",
+        "amount": 100.0,
+        "result": 0.06
+    },
+    {
+        "type": "Electricity",
+        "amount": 100.0,
+        "result": 0.06
+    },
+    {
+        "type": "Electricity",
+        "amount": 50.0,
+        "result": 0.03
+    }
+]
